@@ -1,0 +1,96 @@
+
+.container{
+    /* height: 613.5435791015625px; */
+    width: 1540.5126953125px;
+    left: 89px;
+    top: 94.4564208984375px;
+    border-radius: nullpx;
+    font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+position: absolute;
+
+
+}
+.image{
+    height: 762px;
+width: 1051px;
+left: 58px;
+top: 874px;
+border-radius: 0px;
+/* position: absolute; */
+}
+h2{
+    height: 77px;
+width: 962px;
+left: 58px;
+top: 742px;
+border-radius: nullpx;
+/* position: absolute; */
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.image a{
+    height: 48px;
+    width: 245px;
+    left: -5px;
+    top: 1670px;
+    border-radius: nullpx;
+    font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.dogImage{
+    position: absolute;
+width: 245px;
+height: 48px;
+left: 58px;
+top: 1791px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-decoration-line: underline;
+}
+.trivia{
+    position: absolute;
+    height: 469px;
+width: 1623px;
+left: -5px;
+top: 1795px;
+border-radius: nullpx;
+font-size: 50px;
+    font-family: Inter;
+/* font-size: 64px; */
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    
+.trivia ol{
+    font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+height: 469px;
+width: 1623px;
+left: 58px;
+top: 1795px;
+border-radius: nullpx;
+}
